@@ -89,7 +89,7 @@ text-shadow: 2px 7px 8px #000000;
     position: relative;
 }
 .slider .owl-item.active.center .slider-card {
-    transform: scale(1.15);
+    transform: scale(1.05);
     opacity: 1;
     background: #c21500;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #ffc500, #c21500);  /* Chrome 10-25, Safari 5.1-6 */
